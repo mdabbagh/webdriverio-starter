@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Framework generated directories
+test-results/
+
+# Mac OSX
+.DS_Store
